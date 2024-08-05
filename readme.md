@@ -8,10 +8,17 @@ LICENSE: [MIT](./license.md)
 ### Содержание:
 #### 1. Введение
 #### 2. Основные команды
-* 2.1 git config 
-* 2.2 git init
-* 2.3 [git add](./add.md)
-* 2.3 git status
+
+2.1 [git config](./config.md) 
+
+2.2 [git init](./init.md)
+
+2.3 [git add](./add.md)
+
+2.3 [git status](./status.md)
+
+2.4 [git commit](./commit.md)
+
 
 
 
