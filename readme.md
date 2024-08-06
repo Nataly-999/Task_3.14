@@ -6,7 +6,7 @@ LICENSE: [MIT](./license.md)
 ---
 
 ### Содержание:
-#### 1. Введение
+#### 1. [Введение](./introduction.md)
 #### 2. Основные команды
 
 2.1 [git config](./config.md) 
@@ -19,7 +19,15 @@ LICENSE: [MIT](./license.md)
 
 2.4 [git commit](./commit.md)
 
+2.5 [git remote](./remote.md)
 
+2.6 [git push](./push.md)
+
+2.7 [git clone](./clone.md)
+
+2.8 [git pull](./pull.md)
+
+#### 3. [Заключение](./conclusion.md)
 
 
 
