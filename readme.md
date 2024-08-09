@@ -28,9 +28,9 @@ LICENSE: [MIT](./license.md)
 
 3.8 [git pull](./pull.md)
 
-3.9 git merge
+3.9 [git merge](./merge.md)
 
-3.10 git branch
+3.10 [git branch](./branch.md)
 
 
 #### 4. [Заключение](./conclusion.md)
