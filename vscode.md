@@ -1,4 +1,4 @@
-[< к содержанию](./readme.md)
+[<< к содержанию](./readme.md)
 
 [< к подготовке к работе](./startwork.md)
 
@@ -9,7 +9,7 @@
 
 После установки *VSCode* необходимо открыть его, нажать на *"Файл"* -> *"Открыть папку"* и выбрать папку (локальный репозиторий):
 
-![vscode file](./assets/vscodefile.png)
+![vscode file](./assets/vscodefile.png) 
 
 ![vscode file2](./assets/vscodefile2.png)
 
