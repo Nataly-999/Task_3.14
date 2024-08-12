@@ -21,7 +21,7 @@
 
 ![clone rep](./assets/clonerep.png)
 
-После этого на рабочем столе надо нажать правую кнопку мыши и выбрать *Open GIT Bash Here*:
+После этого на рабочем столе надо нажать правую кнопку мыши и выбрать *"Open GIT Bash Here"*:
 
 ![bash work table](./assets/bashworktable.png)
 
